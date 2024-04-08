@@ -1,0 +1,11 @@
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\BusinessObject.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\BusinessObject.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\DataAccess.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessLogic\bin\Debug\DataAccess.pdb

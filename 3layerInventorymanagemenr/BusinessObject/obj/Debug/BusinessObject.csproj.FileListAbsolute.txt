@@ -1,0 +1,6 @@
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\bin\Debug\BusinessObject.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\bin\Debug\BusinessObject.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\obj\Debug\BusinessObject.csproj.AssemblyReference.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\obj\Debug\BusinessObject.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\BusinessObject\obj\Debug\BusinessObject.pdb

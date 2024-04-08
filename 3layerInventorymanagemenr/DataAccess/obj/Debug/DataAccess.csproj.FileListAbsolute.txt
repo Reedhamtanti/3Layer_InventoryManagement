@@ -1,0 +1,9 @@
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\bin\Debug\DataAccess.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\bin\Debug\DataAccess.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\bin\Debug\BusinessObject.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\bin\Debug\BusinessObject.pdb
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\obj\Debug\DataAccess.dll
+D:\CLASS 2023\practice\3LayerInventory\3layerInventorymanagemenr\DataAccess\obj\Debug\DataAccess.pdb
